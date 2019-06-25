@@ -1,0 +1,5 @@
+[B]4.0.2[/B]
+  23.06.2019
+- nicht legale Anbieter entfernt
+- Code und settings.xml angepasst
+- Lastship Menü angepasst
